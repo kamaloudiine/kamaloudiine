@@ -1,4 +1,7 @@
 ## Hi there 👋
+I'm Kamal Raliou, an Computer science enthusiast.
+I'm currently a Preparatory Class Student in France.
+How to reach me : kamalralioupro@gmail.com
 
 <!--
 **kamaloudiine/kamaloudiine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
